@@ -1,0 +1,1 @@
+# mapstruct-bigdecimal-to-double
